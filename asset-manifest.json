@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/carousal/static/css/main.f8fed1ce.css",
+    "main.css": "/carousal/static/css/main.fea81b61.css",
     "main.js": "/carousal/static/js/main.cd09928f.js",
     "static/media/halll.jpg": "/carousal/static/media/halll.235ea28afc5f753875d1.jpg",
     "static/media/kitchen.jpg": "/carousal/static/media/kitchen.00f388cda3517cff38b6.jpg",
@@ -10,11 +10,11 @@
     "static/media/modernbathroom.jpg": "/carousal/static/media/modernbathroom.3f51ba823d795a200229.jpg",
     "static/media/appartment.jpg": "/carousal/static/media/appartment.29f56f41f3668896cb7a.jpg",
     "index.html": "/carousal/index.html",
-    "main.f8fed1ce.css.map": "/carousal/static/css/main.f8fed1ce.css.map",
+    "main.fea81b61.css.map": "/carousal/static/css/main.fea81b61.css.map",
     "main.cd09928f.js.map": "/carousal/static/js/main.cd09928f.js.map"
   },
   "entrypoints": [
-    "static/css/main.f8fed1ce.css",
+    "static/css/main.fea81b61.css",
     "static/js/main.cd09928f.js"
   ]
 }
